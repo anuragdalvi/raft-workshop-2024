@@ -1,4 +1,9 @@
-```=== RUN   TestServer
+# Raft workshop 2024
+
+
+```
+$ go test . -v
+=== RUN   TestServer
 --- PASS: TestServer (0.00s)
 === RUN   TestAppendEntry
 --- PASS: TestAppendEntry (0.00s)
